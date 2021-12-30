@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "3dd01ddb5ade19d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b456520b7002a11",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DayEndReport_FehmaanShahid.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ddfdf10fa488a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5710e8d2c93919f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baee26ff5e168a39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "855aee8674b95356",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "95c80a37c727293f",
+    "type": "split",
+    "children": [
+      {
+        "id": "68c9f03524124141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ee75d4f0ecc1a91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DayEndReport_FehmaanShahid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8b456520b7002a11",
+  "lastOpenFiles": [
+    "DayEndReport_FehmaanShahid.md",
+    "Daily Notes.md.md"
+  ]
+}
