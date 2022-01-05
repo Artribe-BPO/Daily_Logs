@@ -1,13 +1,6 @@
 # Daily_Logs
 Daily Logs of D&amp;D employees
 
-### To generate your personal tokens to be allowed access to push logs onto the Daily_Logs repository
-https://github.com/settings/tokens
-
-- Tick the repo checkbox in the scope
-
-- Set the token to expire whenever you want it to
-
 - To set origin to the Daily Logs repo 
 ```
 git remote add origin https://github.com/Artribe-BPO/Daily_Logs.git
@@ -34,3 +27,20 @@ git commit -m "Tuesday 4 January"
 ```
 git push -u origin main
 ```
+
+## Token Auth
+- You'll be asked for authorization before you are allowed to push however
+
+### username: Artribe-BPO
+
+- For password, you'll have to generate your token. To do that, go to the link below
+
+ ### https://github.com/settings/tokens
+- Click on Generate New Token Button
+- Add "YourName Daily Logging Token" as Note
+- SetExpiry to whenever you want it to expire
+- Check the "repo" option and at the bottom click "Generate token"
+##### Copy the token and send it to your Manager or save it somewhere because it won't be visible again
+- Copy Paste this token in the password field and you are good to go
+
+### password: -Generated Token-
