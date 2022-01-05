@@ -25,7 +25,7 @@ git commit -m "Tuesday 4 January"
 - To finally push these files onto the repo,
 
 ```
-git push -u origin main
+git push -u origin master
 ```
 
 ## Token Auth
