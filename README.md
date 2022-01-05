@@ -1,5 +1,9 @@
 # Daily_Logs
+
+
 Daily Logs of D&amp;D employees
+
+## Pushing Logs to Git
 
 - To set origin to the Daily Logs repo 
 ```
@@ -44,3 +48,14 @@ git push -u origin master
 - Copy Paste this token in the password field and you are good to go
 
 ### password: -Generated Token-
+
+## Error 
+Updates were rejected because the remote contains work that you do
+hint: not have locally.
+
+This means that the files uploaded on git has some changes that git cannot detect on the same files you have on your system
+This can be solved by 
+```
+git pull origin master
+```
+Then you can continue with the above method of pushing files to git
