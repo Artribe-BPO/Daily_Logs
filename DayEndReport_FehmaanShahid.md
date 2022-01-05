@@ -742,3 +742,49 @@ Firebase documentation bad, Firebase bad
 
 
 [^41]:  29/12/2021-Wednesday
+
+# 30/12/2021-Thursday [^42]
+## Summary 
+Firebase bad
+## Task Breakdown
+- getDocs functionality to retrieve all the messages and room details to display
+- Watching NetNinja to get document detail functionality
+- Getting all the chat messages in a certain room partially implemented
+- RoomName and message #{roomName} set according to ID from Firebase fetch
+ ## To-Do
+- Login / Register system
+ ## Comments
+Firebase, a curse
+
+[^42]:  30/12/2021-Thursday
+
+# 31/12/2021-Friday [^43]
+## Summary 
+Off Day New Year
+## Task Breakdown
+- -
+ ## To-Do
+- Login / Register system
+ ## Comments
+Firebase, a curse indeed
+
+[^43]:  31/12/2021-Friday
+
+
+# 3/1/2022-Monday [^44]
+## Summary 
+Used Redux Workarounds to complete fetching of text components
+## Task Breakdown
+- Using Redux to store state of messages
+- Updation of Redux method to store messages
+- useSelector to retrieve state storing all messages sent in a room
+- clearMessages function to clear messages of one room when room is switched
+- Rendering message, user and userImage components through Message component
+ ## To-Do
+- Sending Images on the chat research and implementation
+- Document sending research and implementation
+- Login / Register system
+ ## Comments
+Firebase, a curse indeed
+
+[^44]:  3/1\2022-Friday
