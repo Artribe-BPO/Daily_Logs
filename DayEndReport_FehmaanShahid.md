@@ -787,4 +787,56 @@ Used Redux Workarounds to complete fetching of text components
  ## Comments
 Firebase, a curse indeed
 
-[^44]:  3/1\2022-Friday
+[^44]:  3/1/2022-Monday
+
+# 4/1/2022-Tuesday [^45]
+## Summary 
+Found a better template, restarting entire project using MERN Stack and Socket.io
+## Task Breakdown 
+-   Initiated an express server. Setup env and set to listen to PORT 5000
+-   Tested dummy data with Postman
+-   Setup React frontend 
+-   Setup Chakra Provider   
+-   user, chat, message Schema Creation    
+-   Chakra UI Login and Sign Up components setup    
+-   Watched Tutorial on how to send image   
+-   Setup with Mongo Atlas   
+-   Installed colors package to log with fancy colors   
+-   ExpressAsyncHandler is a package to catch async errors without us having to use Try Catch again and again  
+-   Semi Creation of userRoutes. (Controller, Routes) files setup 
+-   Register User Route Created
+
+ ## To-Do
+- Login / Register system and JWT generation
+- userRoutes and ChatAPI
+- ChatApp UI
+ ## Comments
+:3
+[^45]:  4/1/2022-Tuesday
+
+
+# 5/1/2022-Wednesday [^46]
+## Summary 
+Setup Github repos and completed authentication for login and register system.
+Completed Error Handling
+## Task Breakdown 
+-   Github setup for the app and Daily Logs 
+-   Setup the new HRMS chat on a repository on my personal account    
+-   Setup a Daily Logging Repo on the company account and logged my reporting   
+-   JWT token generation setup    
+-   User authentication controller added    
+-   Authenticated Login setup    
+-   Error middleware setup  
+-   Cloudinary setup for images on profile    
+-   Profile Picture upload to cloudinary setup   
+-   Connecting Sign up backend to front end using axios    
+-   Connecting Log in component backend to frontend
+
+ ## To-Do
+- userRoutes and ChatAPI
+- ChatApp UI
+- Group Chat UI
+ ## Comments
+I am speed
+
+[^46]:  5/1/2022-Wednesday
